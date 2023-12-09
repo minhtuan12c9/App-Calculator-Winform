@@ -1,0 +1,11 @@
+D:\Hoc ky 1 nam 4\Lap trinh Windows\Calc_HoPhanMinhTuan\Calc_HoPhanMinhTuan\bin\Debug\Calc_HoPhanMinhTuan.exe.config
+D:\Hoc ky 1 nam 4\Lap trinh Windows\Calc_HoPhanMinhTuan\Calc_HoPhanMinhTuan\bin\Debug\Calc_HoPhanMinhTuan.exe
+D:\Hoc ky 1 nam 4\Lap trinh Windows\Calc_HoPhanMinhTuan\Calc_HoPhanMinhTuan\bin\Debug\Calc_HoPhanMinhTuan.pdb
+D:\Hoc ky 1 nam 4\Lap trinh Windows\Calc_HoPhanMinhTuan\Calc_HoPhanMinhTuan\obj\Debug\Calc_HoPhanMinhTuan.csproj.AssemblyReference.cache
+D:\Hoc ky 1 nam 4\Lap trinh Windows\Calc_HoPhanMinhTuan\Calc_HoPhanMinhTuan\obj\Debug\Calc_HoPhanMinhTuan.Properties.Resources.resources
+D:\Hoc ky 1 nam 4\Lap trinh Windows\Calc_HoPhanMinhTuan\Calc_HoPhanMinhTuan\obj\Debug\Calc_HoPhanMinhTuan.csproj.GenerateResource.cache
+D:\Hoc ky 1 nam 4\Lap trinh Windows\Calc_HoPhanMinhTuan\Calc_HoPhanMinhTuan\obj\Debug\Calc_HoPhanMinhTuan.csproj.CoreCompileInputs.cache
+D:\Hoc ky 1 nam 4\Lap trinh Windows\Calc_HoPhanMinhTuan\Calc_HoPhanMinhTuan\obj\Debug\Calc_HoPhanMinhTuan.exe
+D:\Hoc ky 1 nam 4\Lap trinh Windows\Calc_HoPhanMinhTuan\Calc_HoPhanMinhTuan\obj\Debug\Calc_HoPhanMinhTuan.pdb
+D:\Hoc ky 1 nam 4\Lap trinh Windows\Calc_HoPhanMinhTuan\Calc_HoPhanMinhTuan\obj\Debug\Calc_HoPhanMinhTuan.frmTuan.resources
+D:\Hoc ky 1 nam 4\Lap trinh Windows\Calc_HoPhanMinhTuan\Calc_HoPhanMinhTuan\obj\Debug\Calc_HoPhanMinhTuan.frmHistory.resources
